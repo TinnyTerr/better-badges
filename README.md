@@ -26,7 +26,7 @@ Installation is easy! I'll make a more in depth installation method for differen
 
 2. Copy the text and go to settings > themes then open themes folder button.
 
-3. Make sure that show file extentions are on and create a new text file
+3. Make sure that show file name extentions are (in file explorer, at the top, hit view then check view file name extentions)on and create a new text file
 
 4. Change the name of the text file to `BetterBadges.css` including removing the `.txt` from the end
 
